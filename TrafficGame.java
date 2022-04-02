@@ -389,7 +389,7 @@ public class TrafficGame {
 			if (ValidateWin(GameBoard, team2Color,Team2.size())) {
 				String s1= " WWWW    WWWW    IIIIII   NNNN N   NNNN";
 				String s2= "  ww     ww       III      NN   N   NN ";
-				String s3= "  WW  VV WW		  III      NN    N  NN ";
+				String s3= "  WW  VV WW       III      NN    N  NN ";
 				String s4="   W   V   W      IIIIII   NNNN     NNNN";
 				String s5="";
 				String s6="WHOOO-HOO Genius Rank - You got your team to their destination safely. ";
